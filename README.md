@@ -1,2 +1,3 @@
 # Dice-Roller
- Dice roller gui
+ Basic tkinter dice rolling app
+ 
